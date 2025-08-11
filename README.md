@@ -42,7 +42,7 @@ Sigue estos pasos para tener una copia local del proyecto en funcionamiento.
 1.  Clona el repositorio:
 
     bash
-    git clone [https://github.com/tu-usuario/nombre-del-repositorio.git](https://github.com/tu-usuario/nombre-del-repositorio.git)
+    git clone [https://github.com/tu-usuario/nombre-del-repositorio.git]([https://github.com/tu-usuario/nombre-del-repositorio.git](https://github.com/EdgarMontesMarquez/App-MEGASAL.git))
     
 
 2.  Navega al directorio del proyecto:
